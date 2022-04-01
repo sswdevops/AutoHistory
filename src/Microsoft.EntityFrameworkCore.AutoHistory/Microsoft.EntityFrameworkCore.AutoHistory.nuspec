@@ -11,6 +11,7 @@
 
     <!-- Dependencies added here -->
     <dependencies>
+	 <group targetFramework="net6.0" />
     </dependencies>
   </metadata>
 </package>
