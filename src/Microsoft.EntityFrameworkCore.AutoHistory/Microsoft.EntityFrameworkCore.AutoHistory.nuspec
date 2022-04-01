@@ -11,7 +11,7 @@
 
     <!-- Dependencies added here -->
     <dependencies>
-	 <group targetFramework="net6.0" />
+	 <dependency id="Microsoft.EntityFrameworkCore.Relational" version="6.0.0" />
     </dependencies>
   </metadata>
 </package>
