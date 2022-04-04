@@ -4,7 +4,7 @@
     <VersionPrefix>6.0.0</VersionPrefix>
     <Authors>rigofunc;rigofunc@outlook.com</Authors>
     <TargetFramework>net6.0</TargetFramework>
-    <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <NoWarn>$(NoWarn);CS1591;NU5128</NoWarn>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <AssemblyName>Microsoft.EntityFrameworkCore.AutoHistory</AssemblyName>
