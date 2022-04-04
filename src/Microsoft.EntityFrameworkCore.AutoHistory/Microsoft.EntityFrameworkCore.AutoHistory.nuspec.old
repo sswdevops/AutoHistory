@@ -6,7 +6,7 @@
     <authors>SSW Dev Team</authors>
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Sx.Core.Lib implementation</description>
+    <description>Sx.AutoHistory implementation</description>
     <copyright>$author$</copyright>
 
     <!-- Dependencies added here -->
