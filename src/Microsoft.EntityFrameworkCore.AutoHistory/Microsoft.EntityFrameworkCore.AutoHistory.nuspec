@@ -1,12 +1,12 @@
 <package>
   <metadata>
-    <id>$id$</id>
+    <id>Sx.Microsoft.EntityFrameworkCore.AutoHistory</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>SSW Dev Team</authors>
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Sx.AutoHistory implementation</description>
+    <description>Sx.Microsoft.EntityFrameworkCore.AutoHistory implementation</description>
     <copyright>$author$</copyright>
 
     <!-- Dependencies added here -->
